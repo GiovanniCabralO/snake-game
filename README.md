@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-Este é um jogo da cobrinha (Snake) feito em Python com a biblioteca Turtle para gráficos e Pygame para áudio.
+Este é um jogo da cobra (Snake) feito em Python com a biblioteca Turtle para gráficos e Pygame para áudio.
 
 ## 🎮 Recursos
 - Gráficos com Turtle (interface gráfica simples)
@@ -22,10 +22,10 @@ python main.py
 
 ## 📁 Estrutura do projeto
 - `main.py` — Loop principal e controle do jogo
-- `snake.py` — Classe da cobrinha e seus movimentos
+- `snake.py` — Classe da cobra e seus movimentos
 - `food.py` — Classe do alimento
 - `scoreboard.py` — Classe para mostrar e salvar a pontuação
-- `bite.mp3`, `gameover.mp3`, `music.mp3` — Arquivos de áudio
+- `bite.wav`, `gameover.wav`, `music.wav` — Arquivos de áudio
 
 ## 🧠 Objetivo educacional
 Este projeto foi desenvolvido com foco em aprendizado de:
