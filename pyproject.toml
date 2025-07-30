@@ -1,0 +1,11 @@
+[project]
+name = "snake-game"
+version = "0.1.0"
+description = "Snake game built with Python using the Turtle graphics library. Includes persistent high score saving via file I/O and real-time sound effects/music using Pygame."
+authors = [
+    { name = "Giovani Cabral", email = "your.email@example.com" }
+]
+requires-python = ">=3.7"
+dependencies = [
+    "pygame>=2.6.0"
+]
